@@ -10,6 +10,7 @@ namespace tpl_exer_1
     {
         private static void Main(string[] args)
         {
+            int i = 0;           
 
             Console.WriteLine("Hello, world!");
             Console.Read();

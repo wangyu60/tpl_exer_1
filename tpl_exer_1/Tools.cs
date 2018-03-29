@@ -8,5 +8,8 @@ namespace tpl_exer_1
 {
     class Tools
     {
+        public string PropertyA { get; set; }
     }
+
+    
 }
